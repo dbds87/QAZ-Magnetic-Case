@@ -6,4 +6,5 @@ Other things to note are:
 - The PCB is mounted to the case with integrated edge plate. This means, other than the 3 keys at the left and right-most columns, all other switches will be plateless. Hence, not recommended for use with hotswap PCB.
 - The top and bottom cases are held together by neodymium magnets measuring 4mm in diameter & 1.5mm in thickness.
 - I have tested the case only as an FDM print. Ymmv when it comes to sls/sla/cnc etc.
+
 For any other questions, please contact me via Discord@ sato40
