@@ -1,6 +1,6 @@
 # QAZ-Magnetic-Case
 This is a 3D printed case for the QAZ PCB (Pro Micro Version), available at [Coffee Break Keyboards](https://www.cbkbd.com/product/qaz).
-! [Image 1] (pictures/20221210_141156.jpg)
+! [Image 1] (/pictures/20221210_141156.jpg)
 I used peel-a-way sockets to socket the pro micro (available at [RingerKeys](https://ringerkeys.com/products/peel-a-way-sockets?_pos=1&_psq=peel&_ss=e&_v=1.0)), so you may be able to use the integrated version of the QAZ PCB with this case since the USB port sits flush with the PCB.
 ! [Image 2] (pictures/20221210_134928.jpg)
 Using any other type of socket (DIP, Mill-Max, etc.) would require modification to the case design. However, this is untested.
